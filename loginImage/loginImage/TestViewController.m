@@ -35,8 +35,6 @@
     [self.loadView1 disapearInDelay:_loadImagedelay];
     [self.view addSubview:self.loadView1];
     _weakSelf = self;
-    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
-    NSLog(@"%@",[defaults objectForKey:@"AppleLauages"]);
 }
 
 

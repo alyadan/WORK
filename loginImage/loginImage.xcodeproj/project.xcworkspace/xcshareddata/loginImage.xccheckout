@@ -10,6 +10,8 @@
 	<string>loginImage</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>60C988E1B82923839D1647D1B1ADB35890B64728</key>
+		<string>https://github.com/alyadan/WORK.git</string>
 		<key>CECFA66536EEFAB3BCCE2E4D4FF8816099C8110D</key>
 		<string>https://github.com/alyadan/WORK.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>loginImage/loginImage.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>CECFA66536EEFAB3BCCE2E4D4FF8816099C8110D</key>
+		<key>60C988E1B82923839D1647D1B1ADB35890B64728</key>
 		<string>../../..</string>
+		<key>CECFA66536EEFAB3BCCE2E4D4FF8816099C8110D</key>
+		<string>../../../../codeDemo</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/alyadan/WORK.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CECFA66536EEFAB3BCCE2E4D4FF8816099C8110D</string>
+	<string>60C988E1B82923839D1647D1B1ADB35890B64728</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>CECFA66536EEFAB3BCCE2E4D4FF8816099C8110D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>codeDemo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60C988E1B82923839D1647D1B1ADB35890B64728</string>
+			<key>IDESourceControlWCCName</key>
+			<string>codeGit</string>
 		</dict>
 	</array>
 </dict>
